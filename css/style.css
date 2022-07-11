@@ -673,7 +673,7 @@ a:focus {
 
 .about .section-header {
     margin-bottom: 30px;
-    margin-left: 0;
+    margin-left: 10;
 }
 
 .about .about-img img {
@@ -897,7 +897,7 @@ a:focus {
 
 .price .price-item .price-footer .btn.btn-custom {
     color: #E81C2E;
-    background: #202C45;
+    background: #723f22;
     box-shadow: inset 0 0 0 0 #E81C2E;
 }
 
